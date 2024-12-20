@@ -8,26 +8,26 @@ The Lifer Agent Framework makes it easy to build scalable agent-based workflows 
 
 ## Key Features
 
-- 🤖 **AI agents**: Use our powerful [Asuna agent](/docs/agents.md) refined for Llama 3.1 and Granite 3.0, or [build your own](/docs/agents.md).
+- 🤖 **AI agents**: Use our powerful [Lifer agent](/docs/agents.md) refined for Llama 3.1 and Granite 3.0, or [build your own](/docs/agents.md).
 - 🛠️ **Tools**: Use our [built-in tools](/docs/tools.md) or [create your own](/docs/tools.md) in Javascript/Python.
-- 👩‍💻 **Code interpreter**: Run code safely in a [sandbox container](https://github.com/i-am-Asuna/Asuna-code-interpreter).
+- 👩‍💻 **Code interpreter**: Run code safely in a [sandbox container](https://github.com/i-am-Lifer/Lifer-code-interpreter).
 - 💾 **Memory**: Multiple [strategies](/docs/memory.md) to optimize token spend.
 - ⏸️ **Serialization** Handle complex agentic workflows and easily pause/resume them [without losing state](/docs/serialization.md).
 - 🔍 **Instrumentation**: Use [Instrumentation](/docs/instrumentation.md) based on [Emitter](/docs/emitter.md) to have full visibility of your agent’s inner workings.
 - 🎛️ **Production-level** control with [caching](/docs/cache.md) and [error handling](/docs/errors.md).
-- 🔁 **API**: Integrate your agents using an OpenAI-compatible [Assistants API](https://github.com/i-am-Asuna/Asuna-api) and [Python SDK](https://github.com/i-am-Asuna/Asuna-python-sdk).
-- 🖥️ **Chat UI**: Serve your agent to users in a [delightful UI](https://github.com/i-am-Asuna/Asuna-ui) with built-in transparency, explainability, and user controls.
+- 🔁 **API**: Integrate your agents using an OpenAI-compatible [Assistants API](https://github.com/i-am-Lifer/Lifer-api) and [Python SDK](https://github.com/i-am-Lifer/Lifer-python-sdk).
+- 🖥️ **Chat UI**: Serve your agent to users in a [delightful UI](https://github.com/i-am-Lifer/Lifer-ui) with built-in transparency, explainability, and user controls.
 - ... more on our [Roadmap](#roadmap)
 
 ## Getting started
 
 > [!TIP]
 >
-> 🚀 Would you like a fully set-up TypeScript project with Asuna, Code Interpreter, and Observability? Check out our [Asuna Framework Starter](https://github.com/i-am-Asuna/Asuna-agent-framework-starter).
+> 🚀 Would you like a fully set-up TypeScript project with Lifer, Code Interpreter, and Observability? Check out our [Lifer Framework Starter](https://github.com/i-am-Lifer/Lifer-agent-framework-starter).
 
 > [!TIP]
 >
-> 🚀 Would you like to work with Asuna in your web browser? See [Asuna Stack](https://github.com/i-am-Asuna/Asuna-stack)
+> 🚀 Would you like to work with Lifer in your web browser? See [Lifer Stack](https://github.com/i-am-Lifer/Lifer-stack)
 
 ### Installation
 
