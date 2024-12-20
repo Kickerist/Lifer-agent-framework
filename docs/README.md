@@ -1,5 +1,6 @@
 <p align="center">
-    <img alt="Lifer Framework logo" src="/docs/gov_cto.jpeg" height="128">
+    <img alt="Lifer Framework logo" src="/docs/![gov cto](https://github.com/user-attachments/assets/784ff646-7eeb-466f-be85-a340fb404633)
+" height="128">
     <h1 align="center">Lifer Agent Framework</h1>
 </p>
 
