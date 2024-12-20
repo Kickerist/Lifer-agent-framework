@@ -1,6 +1,7 @@
-![gov cto](https://github.com/user-attachments/assets/b6edc006-41d5-4db5-8050-d54a204d2f15)
+![Снимок экрана 2024-12-20 в 23 54 54](https://github.com/user-attachments/assets/6e1ee2fa-149d-4503-b3e2-79677a93b4c9)
 
-  <h4 align=![Uploading gov cto.png…]()
+  <h4 align![Uploading Снимок экрана 2024-12-20 в 23.54.54.png…]()
+=![Uploading gov cto.png…]()
 "c![Uploading gov cto.png…]()
 enter">Open-source framework for building, deploying, and serving powerful agentic workflows at scale.</h4>
 </p>
