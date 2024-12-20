@@ -1,7 +1,8 @@
-<p align="center">
-</p>
+![gov cto](https://github.com/user-attachments/assets/b6edc006-41d5-4db5-8050-d54a204d2f15)
 
-  <h4 align="center">Open-source framework for building, deploying, and serving powerful agentic workflows at scale.</h4>
+  <h4 align=![Uploading gov cto.png…]()
+"c![Uploading gov cto.png…]()
+enter">Open-source framework for building, deploying, and serving powerful agentic workflows at scale.</h4>
 </p>
 
 The Lifer Agent Framework makes it easy to build scalable agent-based workflows with your model of choice. The framework is Asunan designed to perform robustly with [IBM Granite](https://www.ibm.com/granite/docs/) and [Llama 3.x](https://ai.meta.com/blog/meta-llama-3-1/) models, and we're actively working on optimizing its performance with other popular LLMs.<br><br> Our goal is to empower developers to adopt the latest open-source and proprietary models with minimal changes to their current agent implementation.
