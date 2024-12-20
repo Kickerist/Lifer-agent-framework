@@ -1,5 +1,4 @@
 <p align="center">
-![gov cto](https://github.com/user-attachments/assets/8e85f4af-a798-4e62-a512-6adea08491f1)
 </p>
 
   <h4 align="center">Open-source framework for building, deploying, and serving powerful agentic workflows at scale.</h4>
