@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Asuna Framework logo" src="/docs/assets/Asuna_Dark.svg" height="128">
+    <img alt="Asuna Framework logo" src="/docs/gov_cto.jpeg" height="128">
     <h1 align="center">Asuna Agent Framework</h1>
 </p>
 
